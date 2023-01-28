@@ -49,7 +49,7 @@ function drawRegionsMap() {
     legend: 'none',
 
     // country code works
-    region: r,
+    region: 'US',
 
     // state-level
     resolution: 'provinces'
